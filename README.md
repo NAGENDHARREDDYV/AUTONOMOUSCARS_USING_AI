@@ -1,6 +1,6 @@
 # AUTONOMOUSCARS_USING_AI
 AUTONOMOUS CAR NAVIGATION USING AI AND ML
-[reddy.vuppunuthula@gmal.com]
+[Nagendhar Reddy Vuppunuthula][reddy.vuppunuthula@gmal.com]
 
 
 Preparatory Work AIML
