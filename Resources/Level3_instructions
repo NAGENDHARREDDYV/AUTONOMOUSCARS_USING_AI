@@ -1,0 +1,10 @@
+Copy the file "level3.py" to ~/catkin_workspace/src/hackathon/
+Copy "level3.launch"to ~/catkin_workspace/src/hackathon/launch
+Copy "get_patches.py" to ~/catkin_workspace/src/hackathon/
+Run level3.py to launch your simulation
+
+The simulation starts in paused mode
+Therefore, go to the bottom left of the simulation(gazebo) screen and click on the play button
+
+The function get_patches accesses three images: the logos of right/left/stop.
+These logos were provided in the original dataset and you will have to set these paths accordingly 

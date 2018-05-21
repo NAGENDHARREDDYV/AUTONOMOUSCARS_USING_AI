@@ -1,0 +1,14 @@
+download 2 files: level2.py and level2.launch
+place level2.py in ~/catkin_workspace/src/hackathon/
+place level2.launch in ~/catkin_workspace/src/hackathon/launch/
+
+Run level2.py
+Also, the model starts up in paused state
+Therefore, you need to press play which is at the bottomleft of the gazebo simulation
+
+Points about lidar data:
+
+lidar_scan = a list of 360 values [representing 0-359 degrees]
+0 and 360 corresponds to front of bot
+if you want to see left front of bot: its 0-90 degrees
+if you want to see right front of bot: its 360-270 degrees
